@@ -1,0 +1,31 @@
+.arrowUp {
+  width: 0;
+  height: 0;
+  border-left: 5px solid transparent;
+  border-right: 5px solid transparent;
+  border-bottom: 5px solid black;
+}
+
+.arrowDown {
+  width: 0;
+  height: 0;
+  border-left: 20px solid transparent;
+  border-right: 20px solid transparent;
+  border-bottom: 5px solid black;
+}
+
+.arrowLeft {
+    width: 0;
+    height: 0;
+    border-top: 10px solid transparent;
+    border-bottom: 10px solid transparent;
+    border-right: 10px solid blue;
+}
+
+.arrowRight {
+    width: 0;
+    height: 0;
+    border-top: 60px sold red;
+    border-top: 10px solid red;
+    border-bottom: 10px solid red;
+}
